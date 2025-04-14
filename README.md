@@ -1,7 +1,7 @@
 ## Hi there 👋
+ola eu sou o Rafael
 
-
-Sou Rafael, programador front-end. Trabalho em projetos utilizando CSS e HTML, e atualmente estou aprendendo a usar JavaScript para expandir minhas habilidades e criar interfaces de usuário mais dinâmicas e interativas.
+💻 Estudante de programação focado em Front-End🚀 Conhecimentos: HTML, CSS, JavaScript, Node Js📦 Atualmente trabalho nos Correios e estudo nas horas vagas🎯 Buscando minha primeira oportunidade na área de tecnologia!
 
 
 
