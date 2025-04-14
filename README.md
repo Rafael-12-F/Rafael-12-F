@@ -1,5 +1,5 @@
 ## Hi there 👋
-ola eu sou o Rafael
+Ola eu sou o Rafael
 
 💻 Estudante de programação focado em Front-End🚀 Conhecimentos: HTML, CSS, JavaScript, Node Js📦 Atualmente trabalho nos Correios e estudo nas horas vagas🎯 Buscando minha primeira oportunidade na área de tecnologia!
 
